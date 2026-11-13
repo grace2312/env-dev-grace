@@ -1,3 +1,4 @@
 ## Historique
 
-Ce dossier est suivi avec Git depuis le sous-module 2.
+Ce dossier est suivi avec Git depuis le 
+sous-module 2.
