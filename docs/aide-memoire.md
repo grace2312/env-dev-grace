@@ -17,3 +17,9 @@
 | `cp`     | Copie un fichier | `cp a.txt b.txt` |
 
 ## Lire et chercher
+
+## Branches
+
+|commande |ce qu'elle fait |exemple |
+| ------------ | | |
+|`git branch`|
