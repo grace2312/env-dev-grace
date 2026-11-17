@@ -2,24 +2,36 @@
 
 ## Se déplacer
 
-| Commande | Ce qu'elle fait                | Exemple    |
-| -------- | ------------------------------ | ---------- |
-| `pwd`    | Affiche le dossier où je suis  | `pwd`      |
-| `cd`     | Change de dossier              | `cd ~/dev` |
-| `cd ..`  | remonte au dossier parent      | `cd ..`    |
-| `ls`     | liste les fichiers du dossiers | `ls`       |
-|          |                                |            |
+| Commande | Ce qu'elle fait               | Exemple    |
+| -------- | ----------------------------- | ---------- |
+| `pwd`    | Affiche le dossier où je suis | `pwd`      |
+| `cd`     | Change de dossier             | `cd ~/dev` |
+| `cd ..`  | remonte au dossier parent     | `cd ..`    |
+|          |                               |            |
 
 ## Fichiers et dossiers
 
-| Commande | Ce qu'elle fait  | Exemple          |
-| -------- | ---------------- | ---------------- |
-| `cp`     | Copie un fichier | `cp a.txt b.txt` |
+| Commande  | Ce qu'elle fait          | Exemple         |
+| --------- | ------------------------ | --------------- |
+| `mkdir`   | creer un nouveau dossier | `mkdir env-dev` |
+| `mkdir-p` | creer un dossier parent  | `mkdir -p /..`  |
+| `touch`   | creer un fichier         | `touch grace`   |
+| `mv`      | deplacer un fichier      | `mv ... ...`    |
+| `cp`      | Copie un fichier         | `cp ... ...`    |
+| `rm`      | supprimer un fichier     | `rm grace`      |
 
 ## Lire et chercher
 
+| Commande | Ce qu'elle fait                | Exemple     |
+| -------- | ------------------------------ | ----------- |
+| `ls`     | liste les fichiers du dossiers | `ls`        |
+| `ls -a`  | liste les fichiers caches      | `ls -a`     |
+| `ls -R`  |                                | `ls -R`     |
+| `cat`    | lire un fichier                | `cat ...`   |
+| `grep`   | affiche des lignes specifique  | `grep ".."` |
+
 ## Branches
 
-|commande |ce qu'elle fait |exemple |
-| ------------ | | |
+| Commande | Ce qu'elle fait | Exemple |
+| --------- | ------------------------- | ....... |
 |`git branch`|
