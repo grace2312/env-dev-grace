@@ -36,6 +36,6 @@
 | --------- | ------------------------- | ....... |
 |`git branch`|
 
-## Astuce de Awa
+## Astuce d'hanniel
 
 `git log --oneline --graph` dessine l'historique avec les branches.
