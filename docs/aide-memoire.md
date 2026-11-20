@@ -36,6 +36,6 @@
 | --------- | ------------------------- | ....... |
 |`git branch`|
 
-## Astuce d'hanniel
+## Astuce de Hanniel
 
 `git log --oneline --graph` dessine l'historique avec les branches.
