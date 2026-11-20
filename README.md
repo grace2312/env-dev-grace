@@ -1,4 +1,4 @@
-# env-dev-grace - Mon environnement de developpement
+# env-dev-grace - Mon environnement de developpment
 
 Environnement de développement de DJAHA grace – B1 DEV, IFRAN.
 
@@ -58,6 +58,7 @@ Résultat attendu : une version pour Ubuntu, Git, Node.js, npm et tree.
 | ---------------------- | ----------------------- |
 | `README.md`            | Cette documentation     |
 | `JOURNAL.md`           | Le journal de mes choix |
+| `docs/aide-reseau.md`  |                         |
 | `docs/aide-memoire.md` | …                       |
 | `scripts/installer.sh` | …                       |
 | `scripts/verifier.sh`  | …                       |
