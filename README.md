@@ -54,14 +54,13 @@ Résultat attendu : une version pour Ubuntu, Git, Node.js, npm et tree.
 
 ## Contenu du dossier
 
-| Fichier ou dossier     | Rôle                    |
-| ---------------------- | ----------------------- |
-| `README.md`            | Cette documentation     |
-| `JOURNAL.md`           | Le journal de mes choix |
-| `docs/aide-reseau.md`  |                         |
-| `docs/aide-memoire.md` | …                       |
-| `scripts/installer.sh` | …                       |
-| `scripts/verifier.sh`  | …                       |
+| Fichier ou dossier     | Rôle                      |
+| ---------------------- | ------------------------- |
+| `README.md`            | Cette documentation       |
+| `JOURNAL.md`           | Le journal de mes choix   |
+| `docs/aide-memoire.md` | La liste des commandes    |
+| `scripts/installer.sh` | la liste d'outils a avoir |
+| `scripts/verifier.sh`  | Les versions des outils   |
 
 ## Historique
 
