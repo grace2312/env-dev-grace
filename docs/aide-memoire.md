@@ -35,3 +35,7 @@
 | Commande | Ce qu'elle fait | Exemple |
 | --------- | ------------------------- | ....... |
 |`git branch`|
+
+## Astuce de Hanniel
+
+`git log --oneline --graph` dessine l'historique avec les branches.
