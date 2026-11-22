@@ -22,4 +22,5 @@
 
 - **Decision :** Publier notre depot local sur notre depot distant `github`
 - **Autres possibilites :**neant
-- **Raison :**on voudrait suivre tout les dchangements de notre fichier
+- **Raison :**on voudrait suivre tout les changements de notre fichier
+- **Raison : ....
